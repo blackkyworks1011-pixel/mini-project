@@ -7,9 +7,9 @@ A menu-driven, console-based Library Management System developed in **C++17** as
 - **Project title:** Library Management System
 - **Course requirement:** Mini Project No. 13
 - **Group members:**
-  - Subodh Kamble — URN: E25B001998
-  - Harsh Walaswar — URN: E25B001227
-- **Project coordinator:** Sudhir Kadam
+  - Frens Gandhi - URN : E25B000296
+
+- **Project coordinator:** Dr.Ayushi Mam
 
 ## Features
 
